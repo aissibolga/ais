@@ -38,6 +38,8 @@ wireless earbuds definition
 
 what is the definition of headphones
 
+![definition earbuds]({{ site.url }}{{ site.baseurl }}/assets/images/unsplash-image-10.jpg)
+{: .full}
 
 earpods meaning
 earphone definition
