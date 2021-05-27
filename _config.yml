@@ -14,15 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-locale: "id"
+locale: "en"
 title: earbuds
-email:
+#email:
 description: Earbuds, Bose QuietComfort Earbuds, Honor Earbuds,JLab Audio GO Air True Wireless Earbuds, OnePlus, Boat, earbuds basic s, mi true wireless earbuds basic s, best wireless earbuds 2021, best earbuds 2021, redmi earbuds 2c
-
- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
 twitter_username: earbuds
 #github_username: 
 minimal_mistakes_skin: contrast
@@ -62,9 +57,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "earbuds"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Earbuds in the world."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -72,9 +67,6 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "/"
-   # - label: "GitHub"
-    #  icon: "fab fa-fw fa-github"
-    #  url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "/"
@@ -84,9 +76,6 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "/"
-    #- label: "GitHub"
-    #  icon: "fab fa-fw fa-github"
-     # url: "/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "/"
