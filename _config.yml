@@ -72,8 +72,7 @@ author:
       url: "/"
 
 footer:
-   - label: " Earbuds Disclaimer Contact Sitemap Privacy Policy "
-  links:
+   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "/"
